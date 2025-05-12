@@ -1,4 +1,4 @@
-# Safe-Path-Planning with the Eikonal PDE
+# Safe Path Planning with the Eikonal PDE
 
 This project was built and tested on MATLAB R2024b.
 
